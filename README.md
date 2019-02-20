@@ -2,4 +2,9 @@
 test page
 
 hogehoge
-# YES!
+##### YES!
+
+```py
+priint("hello world!")
+```
+![人生](.\fusagikomu_businesswoman.png)
