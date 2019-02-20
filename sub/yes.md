@@ -3,4 +3,5 @@
 ### Yes
 #### Yes
 ##### Yes
+イエス！
 [yes](./subsub/no.md)
