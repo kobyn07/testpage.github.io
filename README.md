@@ -7,4 +7,4 @@ hogehoge
 ```py
 priint("hello world!")
 ```
-![人生](.\fusagikomu_businesswoman.png)
+![人生](./fusagikomu_businesswoman.png)
