@@ -1,3 +1,6 @@
+---
+title: "Yes"
+---
 # Yes
 ## Yes
 ### Yes
