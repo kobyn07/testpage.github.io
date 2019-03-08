@@ -1,5 +1,5 @@
 ---
-title: "Yes"
+title: "Yesの毎日"
 ---
 # Yes
 ## Yes
